@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "972100702492",
+    "project_id": "asteygo-mvp",
+    "storage_bucket": "asteygo-mvp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972100702492:android:2e59c40eefc75bfd38ead9",
+        "android_client_info": {
+          "package_name": "com.adrianrolling.asteygomvp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972100702492-mvom5a6c58kl159o60o1sdke3sdcm0f9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5-dfG_1KJUt33ofTehds0gyUP3DJrXnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972100702492-mvom5a6c58kl159o60o1sdke3sdcm0f9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "972100702492-4uurbhnns0viv4eothrv0c012jas5s10.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.adrianrolling.asteygomvp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
