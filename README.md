@@ -1,4 +1,4 @@
-# Asteygo - Collaborative Group Travel Engine Mvp
+# Asteygo - Collaborative Group Travel Engine
 
 A real-time mobile application for group travel coordination, expense splitting, and itinerary management.
 
